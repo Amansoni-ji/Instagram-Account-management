@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__meta_social_technologies__devtools_discovery",
+      "mcp__meta_social_technologies__devtools_app_list",
+      "mcp__meta_social_technologies__devtools_app",
+      "mcp__meta_social_technologies__devtools_app_review",
+      "mcp__meta_social_technologies__devtools_compliance",
+      "mcp__meta_social_technologies__devtools_api_usage",
+      "mcp__meta_social_technologies__devtools_webhook_list",
+      "mcp__meta_social_technologies__devtools_api_changelog",
+      "mcp__whatsapp_business_tools__whatsapp_biz_businesses",
+      "mcp__whatsapp_business_tools__whatsapp_biz_accounts",
+      "mcp__whatsapp_business_tools__whatsapp_biz_phone_numbers",
+      "mcp__whatsapp_business_tools__whatsapp_biz_list_templates",
+      "mcp__whatsapp_business_tools__whatsapp_biz_get_template"
+    ],
+    "ask": [
+      "mcp__meta_social_technologies__devtools_webhook_manage",
+      "mcp__meta_social_technologies__devtools_webhook_test",
+      "mcp__whatsapp_business_tools__whatsapp_biz_add_phone_number",
+      "mcp__whatsapp_business_tools__whatsapp_biz_send_verification_code",
+      "mcp__whatsapp_business_tools__whatsapp_biz_verify_phone_number",
+      "mcp__whatsapp_business_tools__whatsapp_biz_register_phone_number",
+      "mcp__whatsapp_business_tools__whatsapp_biz_create_template",
+      "mcp__whatsapp_business_tools__whatsapp_biz_update_template",
+      "mcp__whatsapp_business_tools__whatsapp_biz_delete_template",
+      "mcp__whatsapp_business_tools__whatsapp_biz_send_message",
+      "mcp__whatsapp_business_tools__whatsapp_biz_configure_webhooks",
+      "mcp__whatsapp_business_tools__whatsapp_biz_subscribe_webhook",
+      "mcp__whatsapp_business_tools__whatsapp_biz_configure_payments",
+      "mcp__whatsapp_business_tools__whatsapp_biz_verify_business",
+      "mcp__whatsapp_business_tools__whatsapp_biz_system_user_token"
+    ]
+  }
+}
